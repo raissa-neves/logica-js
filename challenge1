@@ -1,0 +1,16 @@
+    alert('Boas vindas ao nosso site!');
+    let name = 'Lua';
+    let age = 25;
+    let numberOfSales = 50;
+    let availableBalance = 1000;
+
+    alert('Error! Please fill in all fields.');
+
+    let  errorMessage = 'Error! Please fill in all fields.';
+    alert (errorMessage);
+
+    let name = prompt('Enter your name');
+    let age = prompt('Enter your age');
+    if (age >= 18) {
+        alert('You can get your drivers license!')
+    }
