@@ -1,4 +1,4 @@
-    alert('Boas vindas ao nosso site!');
+    alert('Welcome to our site!');
     let name = 'Lua';
     let age = 25;
     let numberOfSales = 50;
