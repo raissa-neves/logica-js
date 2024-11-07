@@ -4,7 +4,7 @@ Practicing programming logic, including concepts like variables, conditionals (i
 
 Understanding these concepts not only makes it easier to learn new languages and technologies but also enables you to create innovative solutions, debug efficiently, and maintain quality throughout the software lifecycle. Therefore, investing time in these principles early on is crucial for building a solid and successful foundation in programming.
 
-#### Challenges
+#### Challenge 1:
 
 1) Display an alert with the message "Welcome to our site!"
 2) Declare a variable called name and assign it the value "Lua".
